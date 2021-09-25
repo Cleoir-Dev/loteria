@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftLotery", "randomkeys\SoftLotery.csproj", "{C7618C2A-ED4D-47BF-BD59-0C1C2E587F4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C8062975-EE98-446C-8F02-FDFB7BCC624E}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IntaladorSoftLotery", "instalador\IntaladorSoftLotery\IntaladorSoftLotery.vdproj", "{7F8C2167-D3A7-4D26-B94C-15A9A9782E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7618C2A-ED4D-47BF-BD59-0C1C2E587F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7618C2A-ED4D-47BF-BD59-0C1C2E587F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7618C2A-ED4D-47BF-BD59-0C1C2E587F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7618C2A-ED4D-47BF-BD59-0C1C2E587F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8C2167-D3A7-4D26-B94C-15A9A9782E97}.Debug|Any CPU.ActiveCfg = Debug
+		{7F8C2167-D3A7-4D26-B94C-15A9A9782E97}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E803D6D-8ACC-460F-9F3C-101ECA48E3CE}
+	EndGlobalSection
+EndGlobal
